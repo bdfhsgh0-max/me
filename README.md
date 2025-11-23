@@ -1,5 +1,5 @@
 <h1 align="center">
-  ✨ 𝘽𝙃𝙐𝙈𝙄𝙃𝘼𝙍 DRM Bot ✨
+  ✨ GOURAV BHAI ✨
 </h1>
 
 <p align="center">
