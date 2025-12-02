@@ -7,11 +7,11 @@ API_ID = int(environ.get("API_ID", "29899250"))
 API_HASH = environ.get("API_HASH", "611d045796c79af3e5ddfa3d6fd536a7")
 BOT_TOKEN = environ.get("BOT_TOKEN", "8327595767:AAHUxZME9vuWN0ipul0GvOA4OR44I5Hbh3U")
 
-OWNER = int(environ.get("OWNER", "7660860610"))
-CREDIT = environ.get("CREDIT", "@STUDENTZZZZBOT")
+OWNER = int(environ.get("OWNER", "7549194607"))
+CREDIT = environ.get("CREDIT", "@leavingproperty")
 cookies_file_path = os.getenv("cookies_file_path", "youtube_cookies.txt")
 
-TOTAL_USER = os.environ.get('TOTAL_USERS', '6053889491').split(',')
+TOTAL_USER = os.environ.get('TOTAL_USERS', '7549194607').split(',')
 TOTAL_USERS = [int(user_id) for user_id in TOTAL_USER]
 
 AUTH_USER = os.environ.get('AUTH_USERS', '6053889491').split(',')
